@@ -1,4 +1,4 @@
-# 🌳 Behavior Tree — Fetch Apple from Fridge
+# 🌳 Behavior Tree — Fetch Apple from Fridge - MORE THAN AN AUTONOMOUS AGENT
 
 A standalone C++ behavior tree (independent of ROS) using the
 [BehaviorTree.CPP v4](https://github.com/BehaviorTree/BehaviorTree.CPP)
