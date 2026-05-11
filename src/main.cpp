@@ -40,6 +40,8 @@
 
 // =====================================================================
 // XML definition of the Behavior Tree
+// a markup language
+
 // =====================================================================
 // clang-format off
 static const char* xml_text = R"(
